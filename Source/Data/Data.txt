@@ -1,0 +1,1 @@
+["drives/tvhd/sizes.txt","TVHDSIZE", "drives/tvhd/formats.txt", "TVHDFORM", "hardware/CPU/slowcore16.txt", "SC16 CPU", "hardware/GPU/textblaster80.txt", "TB80 GPU"]
